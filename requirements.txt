@@ -1,0 +1,7 @@
+streamlit
+pyserini
+python-multipart
+torch==1.8.0
+st-annotated-text
+fastapi
+uvicorn
