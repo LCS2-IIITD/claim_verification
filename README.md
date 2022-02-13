@@ -1,4 +1,4 @@
-# Accenture_LCS2_Project
+# ClAIM VERIFICATION
 
 Currently the app supports claims related to medical domain like:
 - Effectiveness of masks on COVID-19.
